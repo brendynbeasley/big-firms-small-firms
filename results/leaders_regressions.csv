@@ -1,0 +1,51 @@
+test,sample,weights,dependent,regressor,n,coef,se,p,r2
+levels 2017,all sectors,equal,pay_gap,cr4,884,0.003248,0.014396,0.821516,0.045494
+levels 2017,all sectors,revenue,pay_gap,cr4,884,-0.016656,0.015272,0.275431,0.105241
+levels 2017,manufacturing,equal,pay_gap,cr4,358,-0.022103,0.018829,0.240448,0.006703
+levels 2017,manufacturing,revenue,pay_gap,cr4,358,-0.015404,0.027103,0.569793,0.004977
+levels 2017,all sectors,equal,log_productivity_ratio,cr4,884,0.002186,0.00086,0.011,0.183434
+levels 2017,all sectors,revenue,log_productivity_ratio,cr4,884,0.004585,0.002539,0.070899,0.370074
+levels 2017,manufacturing,equal,log_productivity_ratio,cr4,358,0.002197,0.00129,0.088479,0.012217
+levels 2017,manufacturing,revenue,log_productivity_ratio,cr4,358,0.002979,0.002549,0.242416,0.023357
+levels 2017,all sectors,equal,log_wage_ratio,cr4,884,1.5e-05,0.000472,0.974361,0.13156
+levels 2017,all sectors,revenue,log_wage_ratio,cr4,884,-0.000241,0.001491,0.871344,0.080277
+levels 2017,manufacturing,equal,log_wage_ratio,cr4,358,0.000558,0.000409,0.172435,0.005415
+levels 2017,manufacturing,revenue,log_wage_ratio,cr4,358,0.000513,0.000701,0.464842,0.004812
+levels 2017,all sectors,equal,pay_gap,emp_share4,884,-0.077522,0.01703,5e-06,0.078067
+levels 2022,all sectors,equal,pay_gap,cr4,770,0.014075,0.016131,0.382927,0.034947
+levels 2022,all sectors,revenue,pay_gap,cr4,770,-0.002445,0.015605,0.875494,0.094074
+levels 2022,manufacturing,equal,pay_gap,cr4,344,0.005863,0.019882,0.768088,0.000467
+levels 2022,manufacturing,revenue,pay_gap,cr4,344,-0.01585,0.020357,0.436216,0.00463
+levels 2022,all sectors,equal,log_productivity_ratio,cr4,770,0.002228,0.000904,0.013769,0.142505
+levels 2022,all sectors,revenue,log_productivity_ratio,cr4,770,0.002049,0.002893,0.478847,0.368535
+levels 2022,manufacturing,equal,log_productivity_ratio,cr4,344,0.00335,0.001156,0.00377,0.02452
+levels 2022,manufacturing,revenue,log_productivity_ratio,cr4,344,0.002698,0.00215,0.209564,0.013156
+levels 2022,all sectors,equal,log_wage_ratio,cr4,770,-0.000593,0.0004,0.138718,0.128624
+levels 2022,all sectors,revenue,log_wage_ratio,cr4,770,-0.001843,0.00111,0.097032,0.147903
+levels 2022,manufacturing,equal,log_wage_ratio,cr4,344,0.000286,0.000483,0.55393,0.001027
+levels 2022,manufacturing,revenue,log_wage_ratio,cr4,344,0.000145,0.000785,0.853928,0.000212
+levels 2022,all sectors,equal,pay_gap,emp_share4,770,-0.072277,0.021005,0.00058,0.062238
+changes 2017-2022,all sectors,equal,d_pay_gap,d_cr4,696,0.221339,0.040253,0.0,0.092356
+changes 2017-2022,all sectors,revenue,d_pay_gap,d_cr4,696,0.180926,0.059185,0.002236,0.123066
+changes 2017-2022,manufacturing,equal,d_pay_gap,d_cr4,326,0.206856,0.036457,0.0,0.094721
+changes 2017-2022,manufacturing,revenue,d_pay_gap,d_cr4,326,0.170224,0.050553,0.000759,0.076112
+changes 2017-2022,all sectors,equal,d_log_productivity_ratio,d_cr4,696,0.017536,0.00269,0.0,0.147786
+changes 2017-2022,all sectors,revenue,d_log_productivity_ratio,d_cr4,696,0.013673,0.005079,0.007096,0.292434
+changes 2017-2022,manufacturing,equal,d_log_productivity_ratio,d_cr4,326,0.019407,0.002856,0.0,0.177618
+changes 2017-2022,manufacturing,revenue,d_log_productivity_ratio,d_cr4,326,0.016708,0.0063,0.007997,0.118063
+changes 2017-2022,all sectors,equal,d_log_wage_ratio,d_cr4,696,0.001851,0.002081,0.373703,0.031179
+changes 2017-2022,all sectors,revenue,d_log_wage_ratio,d_cr4,696,0.003623,0.003253,0.26539,0.165429
+changes 2017-2022,manufacturing,equal,d_log_wage_ratio,d_cr4,326,8.7e-05,0.001484,0.953382,1.3e-05
+changes 2017-2022,manufacturing,revenue,d_log_wage_ratio,d_cr4,326,-0.00089,0.001796,0.62025,0.001639
+changes 2017-2022,all sectors,equal,d_pay_gap,d_emp_share4,696,-0.247245,0.054762,6e-06,0.095706
+changes 2017-2022,all sectors,revenue,d_pay_gap,d_emp_share4,696,-0.269494,0.062969,1.9e-05,0.157033
+changes 2017-2022,manufacturing,equal,d_pay_gap,d_emp_share4,326,-0.162371,0.034778,3e-06,0.05049
+changes 2017-2022,manufacturing,revenue,d_pay_gap,d_emp_share4,326,-0.124104,0.035705,0.000509,0.04186
+changes 2017-2022,all sectors,equal,d_log_productivity_ratio,d_emp_share4,696,-0.025544,0.002195,0.0,0.235697
+changes 2017-2022,all sectors,revenue,d_log_productivity_ratio,d_emp_share4,696,-0.035512,0.004204,0.0,0.46793
+changes 2017-2022,manufacturing,equal,d_log_productivity_ratio,d_emp_share4,326,-0.018981,0.002729,0.0,0.146987
+changes 2017-2022,manufacturing,revenue,d_log_productivity_ratio,d_emp_share4,326,-0.021182,0.004171,0.0,0.19633
+changes 2017-2022,all sectors,equal,d_log_wage_ratio,d_emp_share4,696,-0.011008,0.002333,2e-06,0.120562
+changes 2017-2022,all sectors,revenue,d_log_wage_ratio,d_emp_share4,696,-0.011722,0.003058,0.000126,0.22166
+changes 2017-2022,manufacturing,equal,d_log_wage_ratio,d_emp_share4,326,-0.0045,0.001916,0.018834,0.029782
+changes 2017-2022,manufacturing,revenue,d_log_wage_ratio,d_emp_share4,326,-0.005086,0.001599,0.001471,0.055379

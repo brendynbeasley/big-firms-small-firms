@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Bulk downloads (the extracted files used by the scripts are committed instead)
+data/raw/*.zip
+
+# Secrets
+*.key
+census_key*.txt
+.env
+
+# System files
+.DS_Store

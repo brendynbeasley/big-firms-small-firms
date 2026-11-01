@@ -1,0 +1,13 @@
+naics,industry,sector,cr4,revenue_bn,pay_share_top4,pay_share_rest,rev_per_worker_top4,rev_per_worker_rest,wage_top4,wage_rest
+424210,Drugs and druggists' sundries merchant wholesalers,Wholesale,50.2477,1280.9387,0.58,6.1807,19566.5663,2316.01,113.4849,143.1465
+324110,Petroleum refineries,Manufacturing,52.2026,825.2201,0.9237,1.2757,17195.69,12272.3622,158.8303,156.5542
+455211,Warehouse clubs and supercenters,Retail,95.5452,810.4458,7.8197,7.9936,387.1081,475.4093,30.2707,38.0024
+423110,Automobile and other motor vehicle merchant wholesalers,Wholesale,51.0984,768.3118,0.2675,2.786,54315.8179,2779.5277,145.3185,77.4388
+456110,Pharmacies and drug retailers,Retail,71.0266,543.942,5.0537,7.9648,824.0373,616.3517,41.6446,49.0914
+336110,Automobile and light duty motor vehicle manufacturing,Manufacturing,58.2713,357.1558,4.5511,4.9177,1753.0701,1574.6735,79.7841,77.4384
+517111,Wired telecommunications carriers,Information,65.3724,322.7204,15.268,18.9162,573.9888,420.0598,87.6366,79.4592
+517112,Wireless telecommunications carriers (except satellite),Information,96.5464,282.9703,7.2171,16.5787,1184.4117,280.1419,85.4804,46.4438
+444110,Home centers,Retail,97.9567,257.9851,8.4218,10.9136,344.4782,348.4111,29.0111,38.0243
+481111,Scheduled passenger air transportation,Transportation,72.9199,228.8785,19.6169,13.883,480.419,543.1502,94.2431,75.4054
+457120,Other gasoline stations,Retail,60.5775,187.8291,1.9807,4.0221,1518.0061,781.6299,30.0673,31.4378
+424940,Tobacco product and electronic cigarette merchant wholesalers,Wholesale,56.1775,143.6433,1.7902,3.2617,3317.6529,1884.3337,59.3939,61.4619

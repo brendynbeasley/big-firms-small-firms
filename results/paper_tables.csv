@@ -1,0 +1,16 @@
+table,cr_class,industries,R1,R2,R3,R4,R,intercept,coef,se,r2
+Table 1 unweighted,10-20%,14.0,6.7,9.0,10.8,10.3,9.2,,,,
+Table 1 unweighted,20-30%,22.0,4.5,9.1,9.7,10.4,8.4,,,,
+Table 1 unweighted,30-40%,24.0,5.2,8.7,9.9,11.0,8.7,,,,
+Table 1 unweighted,40-50%,21.0,5.8,9.0,9.5,9.0,8.3,,,,
+Table 1 unweighted,50-60%,11.0,6.7,9.8,10.5,13.4,10.1,,,,
+Table 1 unweighted,over 60%,3.0,5.3,10.1,11.5,23.1,12.5,,,,
+Table 2 asset-weighted,10-20%,14.0,7.3,9.5,10.6,8.0,8.8,,,,
+Table 2 asset-weighted,20-30%,22.0,4.4,8.6,9.9,10.6,8.4,,,,
+Table 2 asset-weighted,30-40%,24.0,5.1,9.0,9.4,11.7,8.8,,,,
+Table 2 asset-weighted,40-50%,21.0,4.8,9.5,11.2,9.4,8.7,,,,
+Table 2 asset-weighted,50-60%,11.0,0.9,9.6,10.8,12.2,8.4,,,,
+Table 2 asset-weighted,over 60%,3.0,5.0,8.6,10.3,21.6,11.3,,,,
+Table 3,R4-R1,,,,,,,-1.4,0.21,0.07,0.09
+Table 3,R4-R2,,,,,,,-2.6,0.12,0.06,0.04
+Table 3,R4-R3,,,,,,,-3.1,0.1,0.05,0.04
